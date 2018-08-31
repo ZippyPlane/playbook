@@ -1,7 +1,7 @@
-# ZippyPlane Playbook
+# Acme Playbook
 **⚠️ NOTICE**: This is still very much a work in progress.
 
-This is the ZippyPlane playbook. In it, you'll find nearly all of the company's operational knowledge. There are some types of information that doesn't live in here, though.
+This is the Acme playbook. In it, you'll find nearly all of the company's operational knowledge. There are some types of information that doesn't live in here, though.
 
 lthough we're pretty small at the moment, we believe very strongly that **good process and tooling** is an easy win. Establishing our policies & processes and setting up our tooling properly is not a lot of effort and is much easier to do **now** than in a few years, once we've started to scale. That's why this document exists. If you want to read a bit more about this, [Process Street wrote a good ebook](http://c.danny.is/ce063d70893a/The-Complete-Guide-to-Business-Process-Management.pdf).
 
@@ -21,7 +21,7 @@ Documenting things in this playbook takes time and requires **thinking**. But it
 Process evolves. Tools change. That's a good thing. It's **everyone's responsibility to keep this playbook up-to-date**. Just open a PR and have someone review it. In general:
 
 1. Only include practices, processes and tools that are established in the company or have been agreed as a convention.
-2. Imagine you are a new employee joining ZippyPlane. **Write for them**.
+2. Imagine you are a new employee joining Acme. **Write for them**.
 3. Link to external tools and documentation when you mention them.
 
 
@@ -149,7 +149,7 @@ We don't currently use Mailchimp, but expect to manage our mailing list and drip
 
 We use Trello extensively to manage our work. We tend to use it as a freeform tool, with very few rules and conventions. When we need more structure, we reach for Airtable.
 
-* [Zippyplane Trello](https://trello.com/zippyplane/home)
+* [Acme Trello](https://trello.com/acme/home)
 
 ### 1Password
 
@@ -161,9 +161,9 @@ We **strongly suggest** that you use it (with a personal vault) to manage your o
 
 Most of our code is hosted on BitBucket, but we also use GitHub for open source projects and for this playbook.
 
-* [Github Organization](https://github.com/ZippyPlane)
+* [Github Organization](https://github.com/Acme)
 
-There is one [Contributors](https://github.com/orgs/ZippyPlane/teams/contributors) team, which has push access to all repos. Note that you must enable 2FA in order to join the Zippyplane organisation.
+There is one [Contributors](https://github.com/orgs/ZippyPlane/teams/contributors) team, which has push access to all repos. Note that you must enable 2FA in order to join the Acme organisation.
 
 ### BitBucket
 
@@ -281,4 +281,4 @@ We don't currently enforce security rules on mobile devices but if you use them 
 
 #### Incident Reporting
 
-Any security or data protection incidents should be immediatly reported to danny@zippyplane.com. This includes near misses and potential vulnerabilities.
+Any security or data protection incidents should be immediatly reported to danny@rootpath.io.com. This includes near misses and potential vulnerabilities.
